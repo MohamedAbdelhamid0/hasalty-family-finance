@@ -15,17 +15,18 @@ A comprehensive multi-platform financial management application designed to empo
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Supported Platforms](#supported-platforms)
-- [Architecture](#architecture)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Dependencies](#dependencies)
-- [Development](#development)
-- [Building](#building)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Key Features](#-key-features)
+- [Supported Platforms](#-supported-platforms)
+- [Architecture](#-architecture)
+- [Getting Started](#-getting-started)
+- [Project Structure](#-project-structure)
+- [Dependencies](#-dependencies)
+- [Development](#-development)
+- [Building](#-building)
+- [Contributing](#-contributing)
+- [Security & Authentication](#-security--authentication)
+- [License](#-license)
 
 ---
 
