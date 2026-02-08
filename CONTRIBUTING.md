@@ -53,7 +53,7 @@ If you wish to contribute to Hasalty:
 
 If you represent a financial institution or are interested in partnership opportunities:
 
-**Contact:** [your-email@organization.com]
+**Contact:** [mohameddabdelhamid@gmail.com](mailto:mohameddabdelhamid@gmail.com)
 
 **Topics of Interest:**
 - Integration partnerships
@@ -99,7 +99,7 @@ We are committed to providing a welcoming and inclusive environment for all cont
 ## Questions?
 
 Feel free to reach out:
-- **Email:** [your-email@organization.com]
+- **Email:** [mohameddabdelhamid@gmail.com](mailto:mohameddabdelhamid@gmail.com)
 - **Issues:** Use GitHub Issues for technical questions
 - **Discussions:** Use GitHub Discussions for general topics
 

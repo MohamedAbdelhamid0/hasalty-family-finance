@@ -50,7 +50,7 @@ The current version is a **beta release** with the following limitations:
 
 If you discover a security vulnerability, please email:
 
-**security@hasalty.dev** (or your contact email)
+**[mohameddabdelhamid@gmail.com](mailto:mohameddabdelhamid@gmail.com)**
 
 Please do not publicly disclose security issues. We will:
 1. Acknowledge receipt within 48 hours

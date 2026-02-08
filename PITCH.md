@@ -267,7 +267,7 @@
 ## Contact & Support
 
 **For Inquiries:**
-- Email: [your-email@organization.com]
+- Email: [mohameddabdelhamid@gmail.com](mailto:mohameddabdelhamid@gmail.com)
 - GitHub: [your-github-url/hasalty]
 - Phone: [your-phone-number]
 

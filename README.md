@@ -130,7 +130,7 @@ Hasalty follows a **stateful widget-based architecture** with the following desi
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/hasalty.git
+   git clone https://github.com/MohamedAbdelhamid0/hasalty-family-finance.git
    cd hasalty
    ```
 
@@ -336,7 +336,7 @@ You are free to use, modify, and distribute this software under the terms of the
 
 ## 👥 Contact & Support
 
-For questions or support regarding this project, please contact the development team at [your-email@organization.com]
+For questions or support regarding this project, please contact the development team at [mohameddabdelhamid@gmail.com](mailto:mohameddabdelhamid@gmail.com)
 
 ---
 
