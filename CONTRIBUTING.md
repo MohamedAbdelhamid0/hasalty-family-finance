@@ -12,7 +12,7 @@ If you wish to contribute to Hasalty:
 
 ### Getting Started
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/hasalty-family-finance.git`
+2. Clone your fork: `git clone https://github.com/MohamedAbdelhamid0/hasalty-family-finance.git`
 3. Create a feature branch: `git checkout -b feature/your-feature-name`
 4. Install dependencies: `flutter pub get`
 5. Make your changes
