@@ -371,6 +371,4 @@ Hasalty is designed to teach financial literacy through a practical, hands-on ap
 
 © 2026 Hasalty Development Team. All Rights Reserved.
 
-Presented to National Bank of Egypt for partnership evaluation.
-
 </div>
