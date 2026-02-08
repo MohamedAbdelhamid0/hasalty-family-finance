@@ -322,7 +322,7 @@ This is a professional project. For contributions:
 
 ## 📱 Screenshots & Demo
 
-[Add screenshots of key screens here in production]
+[Meant to be empty for now]
 
 ---
 
