@@ -322,7 +322,7 @@ This is a professional project. For contributions:
 
 ## 📱 Screenshots & Demo
 
-[Add screenshots of key screens here in production]
+[Meant to be empty for now]
 
 ---
 
@@ -370,7 +370,5 @@ Hasalty is designed to teach financial literacy through a practical, hands-on ap
 <div align="center">
 
 © 2026 Hasalty Development Team. All Rights Reserved.
-
-Presented to National Bank of Egypt for partnership evaluation.
 
 </div>
