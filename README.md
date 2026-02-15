@@ -363,6 +363,11 @@ Hasalty is designed to teach financial literacy through a practical, hands-on ap
 
 ---
 
+## Quick Note
+This project was presented to the *National Bank of Egypt* while participating in a contest 
+
+---
+
 ## 🔄 Version History
 
 | Version | Date | Status |
